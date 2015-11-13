@@ -1,0 +1,31 @@
+RUN	20151103164647	basicexamplesimulation	basicexamplesimulation
+SCENARIO	Get User Details	1	START	1446590808298
+SCENARIO	Get User Details	2	START	1446590811597
+SCENARIO	Get User Details	3	START	1446590814998
+SCENARIO	Get User Details	4	START	1446590818297
+SCENARIO	Get User Details	5	START	1446590821597
+SCENARIO	Get User Details	6	START	1446590824998
+SCENARIO	Get User Details	7	START	1446590828297
+SCENARIO	Get User Details	8	START	1446590831598
+SCENARIO	Get User Details	9	START	1446590834998
+SCENARIO	Get User Details	10	START	1446590838297
+ACTION	Get User Details	1	Hit Registration Page with TR Dropdown	1446590809458	1446590809807	1446590809807	1446590869860	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	1	END	1446590869874
+ACTION	Get User Details	2	Hit Registration Page with TR Dropdown	1446590811599	1446590811842	1446590811842	1446590871852	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	2	END	1446590871852
+ACTION	Get User Details	3	Hit Registration Page with TR Dropdown	1446590814998	1446590815244	1446590815244	1446590875252	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	3	END	1446590875252
+ACTION	Get User Details	4	Hit Registration Page with TR Dropdown	1446590818298	1446590818538	1446590818538	1446590878552	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	4	END	1446590878552
+ACTION	Get User Details	5	Hit Registration Page with TR Dropdown	1446590821598	1446590822100	1446590822100	1446590882152	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	5	END	1446590882153
+ACTION	Get User Details	6	Hit Registration Page with TR Dropdown	1446590824998	1446590825231	1446590825231	1446590885252	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	6	END	1446590885252
+ACTION	Get User Details	7	Hit Registration Page with TR Dropdown	1446590828298	1446590828518	1446590828518	1446590888552	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	7	END	1446590888552
+ACTION	Get User Details	8	Hit Registration Page with TR Dropdown	1446590831598	1446590831820	1446590831820	1446590891852	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	8	END	1446590891853
+ACTION	Get User Details	9	Hit Registration Page with TR Dropdown	1446590835000	1446590836236	1446590836236	1446590896252	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	9	END	1446590896253
+ACTION	Get User Details	10	Hit Registration Page with TR Dropdown	1446590838298	1446590838527	1446590838527	1446590898552	KO	Request timed out to secure-bvtorg10.conviocloud.com/54.163.7.71:443 of 60000 ms
+SCENARIO	Get User Details	10	END	1446590898552

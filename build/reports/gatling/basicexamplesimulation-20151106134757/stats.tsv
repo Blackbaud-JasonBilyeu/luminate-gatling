@@ -1,0 +1,10 @@
+name	nbRequest	nbRequestOK	nbRequestKO	minResponseTime	minResponseTimeOK	minResponseTimeKO	maxResponseTime	maxResponseTimeOK	maxResponseTimeKO	meanResponseTime	meanResponseTimeOK	meanResponseTimeKO	deviation	deviationOK	deviationKO	percentile1	percentile1OK	percentile1KO	percentile2	percentile2OK	percentile2KO	group1Name	group1Count	group1Percentage	group2Name	group2Count	group2Percentage	group3Name	group3Count	group3Percentage	group4Name	group4Count	group4Percentage	meanNumberOfRequestsPerSecond	meanNumberOfRequestsPerSecondOK	meanNumberOfRequestsPerSecondKO
+Global Information	70	70	0	180	180	-1	7820	7820	-1	2132	2132	-1	2881	2881	-1	6870	6870	-1	7430	7430	-1	t < 800 ms	49	70	800 ms < t < 1200 ms	1	1	t > 1200 ms	20	28	failed	0	0	2	2	-1
+Hit Company List Page	10	10	0	350	350	-1	810	810	-1	452	452	-1	136	136	-1	810	810	-1	810	810	-1	t < 800 ms	9	90	800 ms < t < 1200 ms	1	10	t > 1200 ms	0	0	failed	0	0	0	0	-1
+Search for Participant or Team Page	10	10	0	190	190	-1	750	750	-1	267	267	-1	164	164	-1	750	750	-1	750	750	-1	t < 800 ms	10	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+Hit Individual Registration Page 1	10	10	0	280	280	-1	660	660	-1	345	345	-1	114	114	-1	660	660	-1	660	660	-1	t < 800 ms	10	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+Hit Join or Form a Team Page with TR Dropdown	10	10	0	6560	6560	-1	7820	7820	-1	6875	6875	-1	399	399	-1	7820	7820	-1	7820	7820	-1	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	10	100	failed	0	0	0	0	-1
+Hit Individual Registration Page 1 Redirect 1	10	10	0	6160	6160	-1	6910	6910	-1	6469	6469	-1	202	202	-1	6910	6910	-1	6910	6910	-1	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	10	100	failed	0	0	0	0	-1
+Hit Main Registration Page	10	10	0	180	180	-1	570	570	-1	240	240	-1	113	113	-1	570	570	-1	570	570	-1	t < 800 ms	10	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+Hit Find Participant or Team Page	10	10	0	180	180	-1	720	720	-1	274	274	-1	156	156	-1	720	720	-1	720	720	-1	t < 800 ms	10	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+
