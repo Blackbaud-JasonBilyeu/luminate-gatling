@@ -1,4 +1,0 @@
-name	nbRequest	nbRequestOK	nbRequestKO	minResponseTime	minResponseTimeOK	minResponseTimeKO	maxResponseTime	maxResponseTimeOK	maxResponseTimeKO	meanResponseTime	meanResponseTimeOK	meanResponseTimeKO	deviation	deviationOK	deviationKO	percentile1	percentile1OK	percentile1KO	percentile2	percentile2OK	percentile2KO	group1Name	group1Count	group1Percentage	group2Name	group2Count	group2Percentage	group3Name	group3Count	group3Percentage	group4Name	group4Count	group4Percentage	meanNumberOfRequestsPerSecond	meanNumberOfRequestsPerSecondOK	meanNumberOfRequestsPerSecondKO
-Global Information	10	10	0	6190	6190	-1	7400	7400	-1	6480	6480	-1	333	333	-1	7400	7400	-1	7400	7400	-1	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	10	100	failed	0	0	0	0	-1
-Hit Join or Form a Team Page with TR Dropdown	10	10	0	6190	6190	-1	7400	7400	-1	6480	6480	-1	333	333	-1	7400	7400	-1	7400	7400	-1	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	10	100	failed	0	0	0	0	-1
-

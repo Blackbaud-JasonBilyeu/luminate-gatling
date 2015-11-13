@@ -1,5 +1,0 @@
-name	nbRequest	nbRequestOK	nbRequestKO	minResponseTime	minResponseTimeOK	minResponseTimeKO	maxResponseTime	maxResponseTimeOK	maxResponseTimeKO	meanResponseTime	meanResponseTimeOK	meanResponseTimeKO	deviation	deviationOK	deviationKO	percentile1	percentile1OK	percentile1KO	percentile2	percentile2OK	percentile2KO	group1Name	group1Count	group1Percentage	group2Name	group2Count	group2Percentage	group3Name	group3Count	group3Percentage	group4Name	group4Count	group4Percentage	meanNumberOfRequestsPerSecond	meanNumberOfRequestsPerSecondOK	meanNumberOfRequestsPerSecondKO
-Global Information	4	4	0	10	10	-1	140	140	-1	43	43	-1	56	56	-1	140	140	-1	140	140	-1	t < 800 ms	4	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	1	1	-1
-Create TeamRaiser Redirect 1	2	2	0	10	10	-1	10	10	-1	10	10	-1	0	0	-1	10	10	-1	10	10	-1	t < 800 ms	2	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
-Create TeamRaiser	2	2	0	10	10	-1	140	140	-1	75	75	-1	65	65	-1	140	140	-1	140	140	-1	t < 800 ms	2	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
-
